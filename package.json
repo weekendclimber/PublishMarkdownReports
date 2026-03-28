@@ -22,7 +22,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dompurify": "^2.3.8",
+    "dompurify": "^3.3.2",
     "marked": "^4.0.16",
     "vss-web-extension-sdk": "^5.141.0"
   },
